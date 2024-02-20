@@ -1,0 +1,8 @@
+[package]
+name = "your_package_name" # Change this to your package's name
+version = "0.1.0"
+edition = "2018" # or "2021", depending on your preference
+
+# Here come the dependencies
+[dependencies]
+unicode-segmentation = "1.8.0"
