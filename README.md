@@ -1,1 +1,1 @@
-A Rust implementation of the Karpathy implemented BPE Tokenizer Algorithm
+A Rust implementation of the Karpathy implemented BPE Tokenizer Algorithm [[ WIP ]]
